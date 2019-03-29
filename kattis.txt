@@ -1,0 +1,6 @@
+https://github.com/jonathanknorn/kattis
+https://github.com/DidrikLindqvist/Kattis
+https://github.com/abeaumont/competitive-programming/tree/master/kattis
+
+https://github.com/Eroui/Kattis
+https://github.com/ayoubc/Kattis
